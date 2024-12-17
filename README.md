@@ -2,7 +2,7 @@
 
 Because this gets requested so often, here is a repost of a current list of games that are only available on GOG.
 
-Although you still might get old CDs or DVDs of a lot of games, GOG maintains compatibility of these games with current OSes. This list just got cross-checked against the [List of GOG games that aren't available in Steam](https://www.gog.com/forum/general/list_of_gog_games_that_arent_available_in_steam/page6) list on GOG. Here is a list of games that you only get on GOG or where only the GOG version is playable, or where other platforms are missing add-ons and DLCs, or other features:
+Although you still might get old CDs or DVDs of a lot of games, GOG maintains compatibility of these games with current OSes. This list just got cross-checked against the [List of GOG games that aren't available in Steam](https://www.gog.com/forum/general/list_of_gog_games_that_arent_available_in_steam/page6) list on GOG. Here is a list of games that you only get on GOG, or where only the GOG version is playable, or where other platforms are missing add-ons, DLCs, or other features:
 
 ## GOG Exclusive Games
 
@@ -16,7 +16,7 @@ Games that are free on GOG are marked with the symbol `­∅`.
 
 ## Playability of games
 
-I added some entries where the GOG version is actually playable in contrast to e.g. the Steam version, as noted by other redditors and/or by Steam users. If the status of a game is not sure, it’ll be marked with a `?`. Games are listed in alphanumerical order, ignoring articles and pronouns at the beginning, like “I” or “The”.
+I added some entries where the GOG version is actually playable in contrast to e.g. the Steam version, as noted by other Redditors and/or by Steam users. If the status of a game is not sure, it’ll be marked with a `?`. Games are listed in alphanumerical order, ignoring articles and pronouns at the beginning, like “I” or “The”.
 
 ## You want to contribute?
 
@@ -27,8 +27,9 @@ It only takes a few simple steps:
 
 * Click on the pen symbol in the upper right corner of the file view.
 * Make your changes directly in the document
-* Write a short description of your change in the line below “Commit changes” (the line that says “Update README.md”). The text box below that is for longer descriptions, if needed.
-* Below the text boxes, click the radio button for “Creat a **new branch** for this commit and start a pull request.”
+* Click “Commit changes” when you're done
+* Write a short description of your change in the line below “Commit changes” (the line that says “Update README.md”). The text box below is for longer descriptions if needed.
+* Below the text boxes, click the radio button for “Create a **new branch** for this commit and start a pull request.”
 * Click on “Propose changes”
 * That’s it, you’re done!
 
@@ -204,18 +205,20 @@ K
 
 L
 
-* ✔ [Last Express, The](https://www.gog.com/game/last_express_the) - Also available on Steam, but only as the “Gold Version” remake by DotEmu. According to the Steam forum this version also seems to be ridden with bugs. The original version on GOG runs smoothly via DOSBox
+* ✔ [Lands of Lore™ 1+2](https://www.gog.com/en/game/lands_of_lore_1_2)
+* ✔ [Last Express, The](https://www.gog.com/game/last_express_the) - Also available on Steam, but only as the “Gold Version” remake by DotEmu. According to the Steam forum, this version also seems to be ridden with bugs. The original version on GOG runs smoothly via DOSBox
 * ✘ [~~Legacy of Kain: Soul Reaver~~](https://www.gog.com/game/legacy_of_kain_soul_reaver) - Delisted
 * ✔ [Legacy of Kain: Soul Reaver 2](https://www.gog.com/game/legacy_of_kain_soul_reaver_2) - Also available on Steam, but GOG version has wider language support, e.g. French
 * ✔ [Legend Of Kyrandia, The (Book One)](https://www.gog.com/game/legend_of_kyrandia)
 * ✔ [Legend Of Kyrandia: Hand Of Fate, The (Book Two)](https://www.gog.com/game/legend_of_kyrandia_hand_of_fate)
 * ✔ [Legend Of Kyrandia: Malcolm's Revenge, The (Book Three)](https://www.gog.com/game/legend_of_kyrandia_malcolms_revenge)
+* ✔ [Lula: The Sexy Empire](https://www.gog.com/en/game/lula_the_sexy_empire)
 
 M
 
 * ✔ [Magic Carpet Plus](https://www.gog.com/game/magic_carpet) - Includes:
     * ✔ ~~Magic Carpet~~ - Also on Origin
-    * ✔ Magc Carpet: Hidden Worlds
+    * ✔ Magic Carpet: Hidden Worlds
 * ✔ [Magic Carpet 2: The Netherworlds](https://www.gog.com/game/magic_carpet_2_the_netherworlds)
 * ✔ [Metal Gear](https://www.gog.com/game/metal_gear)
 * ✔ [Metal Gear Solid](https://www.gog.com/game/metal_gear_solid)
@@ -239,7 +242,7 @@ N
     * Mask of the Betrayer expansion
     * Storm of Zehir expansion
     * Mysteries of Westgate expansion
-
+  
 O
 
 P
@@ -259,6 +262,7 @@ R
 * ✔ [Rayman 2: The Great Escape](https://www.gog.com/game/rayman_2_the_great_escape)
 * ✔ [Rayman 3: Hoodlum Havoc](https://www.gog.com/game/rayman_3_hoodlum_havoc)
 * ✔ [Revenant](https://www.gog.com/game/revenant)
+* ✔ [Robin Hood: The Legend of Sherwood](https://www.gog.com/en/game/robin_hood) - Also available on Steam, but only the GOG version works on Windows 10/11
 
 S
 
@@ -286,7 +290,7 @@ S
 * ✔ [Star Trek™: Hidden Evil](https://www.gog.com/game/star_trek_hidden_evil)
 * ✔ [Star Trek™: Starfleet Command III](https://www.gog.com/game/star_trek_starfleet_command_iii)
 * ✔ [Star Trek™: Voyager - Elite Force](https://www.gog.com/game/star_trek_voyager_elite_force)
-* ✔ [Stranglehold](https://www.gog.com/game/stranglehold) - Blocked in DE. Use VPN for access or buying this game.
+* ✔ [Stranglehold](https://www.gog.com/game/stranglehold) - Blocked in DE. Use a VPN for access or buying this game.
 * ✔ [Street Fighter Alpha 2](https://www.gog.com/game/street_fighter_alpha_2)
 * ✔ [Strike Commander](https://www.gog.com/game/strike_commander)
 * ✔ [Suffering, The](https://www.gog.com/game/the_suffering)
@@ -300,8 +304,8 @@ T
 * ∅ [Teenagent **FREE!**](https://www.gog.com/game/teenagent)
 * ✔ [Temple Of Elemental Evil, The](https://www.gog.com/game/the_temple_of_elemental_evil)
 * ✔ [Tex Murphy: Mean Streets + Martian Memorandum](https://www.gog.com/game/tex_murphy_1_2) - Includes:
-    * ✔ Mean Streets - Also on Steam, but GOG version has wider language support (e.g. French)
-    * ✔ Martian Memorandum - Also on Steam, but GOG version has wider language support (e.g. French)
+    * ✔ Mean Streets - Also on Steam, but the GOG version has wider language support (e.g. French)
+    * ✔ Martian Memorandum - Also on Steam, but the GOG version has wider language support (e.g. French)
 * ✔ [Theme Park](https://www.gog.com/game/theme_park)
 * ✔ [Thunderscape](https://www.gog.com/game/thunderscape)
 * ✔ [Toonstruck](https://www.gog.com/game/toonstruck) - Also available on Steam, but only in the English version. GOG has the English, French, German, and Spanish dubs available
@@ -323,7 +327,7 @@ W
 * ✔ [Warhammer® 40,000: Rites Of War](https://www.gog.com/game/warhammer_40000_rites_of_war)
 * ✔ [Warhammer®: Shadow Of The Horned Rat](https://www.gog.com/game/warhammer_shadow_of_the_horned_rat)
 * ✔ [Waxworks](https://www.gog.com/en/game/waxworks)
-* ✔ [Wing Commander™ 4: The Price Of Freedom](https://www.gog.com/game/wing_commander_4_the_price_of_freedom) - Also on Origin, but only the GOG version has the high quality DVD video cutscenes made available by Chris Roberts.
+* ✔ [Wing Commander™ 4: The Price Of Freedom](https://www.gog.com/game/wing_commander_4_the_price_of_freedom) - Also on Origin, but only the GOG version has the high-quality DVD video cutscenes made available by Chris Roberts.
 * ✔ [Wing Commander™ 5: Prophecy Gold Edition](https://www.gog.com/game/wing_commander_5_prophecy)
 * ✔ [Wing Commander™: Academy](https://www.gog.com/game/wing_commander_academy)
 * ✔ [Wing Commander™: Armada](https://www.gog.com/game/wing_commander_armada)
